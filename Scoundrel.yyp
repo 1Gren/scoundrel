@@ -13,7 +13,6 @@
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Place Holders","folderPath":"folders/Sprites/Standard Room/Place Holders.yy","name":"Place Holders","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"MainMenu","folderPath":"folders/Objects/MainMenu.yy","name":"MainMenu","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -29,6 +28,7 @@
     {"$GMFolder":"","%Name":"Cards","folderPath":"folders/Sprites/Cards.yy","name":"Cards","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Main Menu","folderPath":"folders/Sprites/Main Menu.yy","name":"Main Menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Standard Room","folderPath":"folders/Sprites/Standard Room.yy","name":"Standard Room","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Place Holders","folderPath":"folders/Sprites/Standard Room/Place Holders.yy","name":"Place Holders","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -41,6 +41,7 @@
   },
   "name":"Scoundrel",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"obj_Card1","path":"objects/obj_Card1/obj_Card1.yy",},},
     {"id":{"name":"obj_Card2","path":"objects/obj_Card2/obj_Card2.yy",},},
     {"id":{"name":"obj_Card3","path":"objects/obj_Card3/obj_Card3.yy",},},
